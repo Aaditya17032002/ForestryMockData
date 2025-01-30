@@ -1,0 +1,101 @@
+Request ID,Date,Location,Issue Type,Priority,Status,Assigned To
+SR-1000,2025-01-02,"380 Maple Ave, Bronx",Tree Blocking Traffic Signals,Low,In Progress,Crew D
+SR-1001,2025-01-24,"545 Elm St, Brooklyn",Tree Needs Pruning,Low,Completed,Crew E
+SR-1002,2025-01-21,"920 Park Ave, Staten Island",Insect Infestation,High,Completed,Crew D
+SR-1003,2025-01-07,"950 Park Ave, Manhattan",Tree Fallen on Car,High,Open,Unassigned
+SR-1004,2025-01-27,"349 Cedar Rd, Brooklyn",Insect Infestation,Medium,Open,Unassigned
+SR-1005,2025-01-15,"113 Pine St, Staten Island",Root Uplifting Sidewalk,High,In Progress,Crew B
+SR-1006,2025-01-06,"253 Birch St, Manhattan",Tree Blocking Traffic Signals,Low,Open,Unassigned
+SR-1007,2025-01-28,"175 Cedar Rd, Manhattan",Diseased Tree Removal,High,Open,Unassigned
+SR-1008,2025-01-10,"249 5th Ave, Staten Island",Root Uplifting Sidewalk,High,Completed,Crew B
+SR-1009,2025-01-12,"141 5th Ave, Bronx",Tree Fallen on Car,High,In Progress,Crew E
+SR-1010,2025-01-26,"444 Maple Ave, Staten Island",Tree Fallen on Car,Medium,In Progress,Crew E
+SR-1011,2025-01-02,"135 Elm St, Brooklyn",Tree Branch Hanging Low,Low,Completed,Crew C
+SR-1012,2025-01-26,"587 Elm St, Manhattan",Diseased Tree Removal,Medium,Open,Unassigned
+SR-1013,2025-01-22,"562 Main St, Bronx",Insect Infestation,High,In Progress,Crew E
+SR-1014,2025-01-19,"598 Oak Rd, Manhattan",Insect Infestation,High,In Progress,Crew A
+SR-1015,2025-01-19,"675 Elm St, Brooklyn",Tree Needs Pruning,Medium,In Progress,Crew D
+SR-1016,2025-01-07,"234 Park Ave, Queens",Tree Blocking Traffic Signals,High,Completed,Crew C
+SR-1017,2025-01-12,"510 Pine St, Brooklyn",Tree Branch Hanging Low,Medium,Open,Unassigned
+SR-1018,2025-01-26,"796 5th Ave, Bronx",Fallen Tree Blocking Road,High,Completed,Crew B
+SR-1019,2025-01-10,"202 Pine St, Bronx",Fallen Tree Blocking Road,Low,In Progress,Crew E
+SR-1020,2025-01-08,"947 Park Ave, Manhattan",Tree Needs Pruning,High,In Progress,Crew D
+SR-1021,2025-01-22,"175 Cedar Rd, Manhattan",Tree Blocking Streetlight,High,Open,Unassigned
+SR-1022,2025-01-02,"844 Birch St, Staten Island",Fallen Tree Blocking Road,Low,In Progress,Crew C
+SR-1023,2025-01-07,"379 Maple Ave, Manhattan",Root Uplifting Sidewalk,High,In Progress,Crew A
+SR-1024,2025-01-23,"975 Main St, Queens",Tree Branch Hanging Low,High,Completed,Crew D
+SR-1025,2025-01-20,"544 Maple Ave, Brooklyn",Diseased Tree Removal,High,In Progress,Crew B
+SR-1026,2025-01-17,"252 Oak Rd, Manhattan",Fallen Tree Blocking Road,Low,Open,Unassigned
+SR-1027,2025-01-26,"310 Maple Ave, Staten Island",Root Uplifting Sidewalk,Medium,In Progress,Crew C
+SR-1028,2025-01-28,"424 Main St, Staten Island",Root Uplifting Sidewalk,High,Open,Unassigned
+SR-1029,2025-01-13,"900 Maple Ave, Brooklyn",Tree Needs Pruning,Medium,Completed,Crew B
+SR-1030,2025-01-19,"889 Cedar Rd, Staten Island",Tree Needs Pruning,High,Completed,Crew A
+SR-1031,2025-01-11,"613 Oak Rd, Bronx",Tree Inspection Request,Medium,In Progress,Crew A
+SR-1032,2025-01-08,"399 Oak Rd, Staten Island",Insect Infestation,Medium,Open,Unassigned
+SR-1033,2025-01-06,"357 Elm St, Brooklyn",Tree Branch Hanging Low,Medium,Completed,Crew A
+SR-1034,2025-01-12,"185 Park Ave, Manhattan",Root Uplifting Sidewalk,Medium,Completed,Crew A
+SR-1035,2025-01-22,"360 Pine St, Staten Island",Tree Blocking Traffic Signals,Medium,Completed,Crew A
+SR-1036,2025-01-08,"150 Oak Rd, Brooklyn",Tree Inspection Request,High,Completed,Crew E
+SR-1037,2025-01-19,"233 Oak Rd, Staten Island",Tree Needs Pruning,High,In Progress,Crew A
+SR-1038,2025-01-20,"935 Maple Ave, Bronx",Root Uplifting Sidewalk,Low,Completed,Crew D
+SR-1039,2025-01-24,"787 Park Ave, Bronx",Tree Inspection Request,High,Completed,Crew E
+SR-1040,2025-01-12,"314 Birch St, Brooklyn",Fallen Tree Blocking Road,Low,Completed,Crew C
+SR-1041,2025-01-03,"378 5th Ave, Brooklyn",Insect Infestation,Medium,Open,Unassigned
+SR-1042,2025-01-01,"129 Pine St, Staten Island",Insect Infestation,Low,Completed,Crew A
+SR-1043,2025-01-21,"485 Maple Ave, Queens",Root Uplifting Sidewalk,High,In Progress,Crew D
+SR-1044,2025-01-19,"283 Cedar Rd, Brooklyn",Tree Needs Pruning,Low,In Progress,Crew B
+SR-1045,2025-01-06,"861 Oak Rd, Manhattan",Fallen Tree Blocking Road,High,In Progress,Crew D
+SR-1046,2025-01-11,"927 Park Ave, Bronx",Tree Blocking Streetlight,Low,Open,Unassigned
+SR-1047,2025-01-19,"146 Elm St, Manhattan",Tree Blocking Traffic Signals,High,Completed,Crew E
+SR-1048,2025-01-22,"522 Oak Rd, Brooklyn",Tree Inspection Request,High,Open,Unassigned
+SR-1049,2025-01-05,"581 Main St, Brooklyn",Fallen Tree Blocking Road,Low,Open,Unassigned
+SR-1050,2025-01-25,"618 Park Ave, Brooklyn",Tree Blocking Streetlight,Medium,Open,Unassigned
+SR-1051,2025-01-08,"146 Elm St, Staten Island",Root Uplifting Sidewalk,Medium,Completed,Crew C
+SR-1052,2025-01-15,"595 Oak Rd, Brooklyn",Tree Blocking Traffic Signals,Medium,Open,Unassigned
+SR-1053,2025-01-13,"886 Pine St, Staten Island",Fallen Tree Blocking Road,Low,In Progress,Crew E
+SR-1054,2025-01-09,"700 Cedar Rd, Brooklyn",Tree Needs Pruning,Medium,In Progress,Crew E
+SR-1055,2025-01-08,"917 Pine St, Bronx",Tree Blocking Streetlight,High,Open,Unassigned
+SR-1056,2025-01-08,"153 Park Ave, Staten Island",Insect Infestation,Medium,Completed,Crew A
+SR-1057,2025-01-04,"693 Maple Ave, Queens",Tree Inspection Request,Medium,Completed,Crew A
+SR-1058,2025-01-27,"223 Oak Rd, Manhattan",Tree Blocking Traffic Signals,Low,Open,Unassigned
+SR-1059,2025-01-06,"938 Maple Ave, Bronx",Root Uplifting Sidewalk,High,Completed,Crew E
+SR-1060,2025-01-13,"928 Elm St, Manhattan",Tree Fallen on Car,High,In Progress,Crew D
+SR-1061,2025-01-07,"398 Elm St, Manhattan",Tree Branch Hanging Low,Medium,Completed,Crew E
+SR-1062,2025-01-17,"716 Cedar Rd, Manhattan",Fallen Tree Blocking Road,High,Open,Unassigned
+SR-1063,2025-01-14,"937 Oak Rd, Brooklyn",Root Uplifting Sidewalk,Low,Completed,Crew D
+SR-1064,2025-01-09,"150 Maple Ave, Manhattan",Insect Infestation,High,Open,Unassigned
+SR-1065,2025-01-04,"710 Main St, Manhattan",Tree Inspection Request,Medium,Completed,Crew E
+SR-1066,2025-01-01,"957 Main St, Manhattan",Root Uplifting Sidewalk,Medium,In Progress,Crew C
+SR-1067,2025-01-16,"197 Birch St, Bronx",Tree Blocking Traffic Signals,High,In Progress,Crew C
+SR-1068,2025-01-09,"519 Maple Ave, Staten Island",Tree Branch Hanging Low,High,Open,Unassigned
+SR-1069,2025-01-01,"989 Park Ave, Staten Island",Insect Infestation,High,In Progress,Crew B
+SR-1070,2025-01-18,"679 Elm St, Bronx",Insect Infestation,Medium,In Progress,Crew D
+SR-1071,2025-01-24,"968 Park Ave, Queens",Tree Inspection Request,High,Open,Unassigned
+SR-1072,2025-01-03,"396 Birch St, Bronx",Fallen Tree Blocking Road,High,Open,Unassigned
+SR-1073,2025-01-14,"757 Cedar Rd, Manhattan",Tree Blocking Traffic Signals,Low,Open,Unassigned
+SR-1074,2025-01-16,"657 Oak Rd, Bronx",Tree Fallen on Car,High,Completed,Crew A
+SR-1075,2025-01-08,"896 Elm St, Queens",Tree Blocking Streetlight,Medium,Completed,Crew A
+SR-1076,2025-01-17,"768 Pine St, Staten Island",Tree Blocking Traffic Signals,Medium,Completed,Crew E
+SR-1077,2025-01-11,"411 Birch St, Manhattan",Tree Branch Hanging Low,Low,Open,Unassigned
+SR-1078,2025-01-06,"143 Oak Rd, Manhattan",Root Uplifting Sidewalk,Low,In Progress,Crew D
+SR-1079,2025-01-24,"726 Oak Rd, Queens",Tree Blocking Streetlight,Medium,Completed,Crew B
+SR-1080,2025-01-19,"933 Park Ave, Queens",Diseased Tree Removal,High,Open,Unassigned
+SR-1081,2025-01-28,"445 Cedar Rd, Manhattan",Tree Blocking Traffic Signals,Medium,Open,Unassigned
+SR-1082,2025-01-10,"306 Maple Ave, Staten Island",Tree Inspection Request,Medium,In Progress,Crew B
+SR-1083,2025-01-02,"871 Oak Rd, Manhattan",Tree Blocking Streetlight,High,Open,Unassigned
+SR-1084,2025-01-05,"662 Oak Rd, Brooklyn",Insect Infestation,Medium,Open,Unassigned
+SR-1085,2025-01-16,"123 Main St, Queens",Insect Infestation,High,In Progress,Crew D
+SR-1086,2025-01-08,"486 Main St, Brooklyn",Tree Blocking Streetlight,High,In Progress,Crew E
+SR-1087,2025-01-24,"258 Park Ave, Brooklyn",Fallen Tree Blocking Road,High,Open,Unassigned
+SR-1088,2025-01-10,"826 5th Ave, Manhattan",Diseased Tree Removal,High,In Progress,Crew C
+SR-1089,2025-01-05,"286 Maple Ave, Manhattan",Tree Blocking Streetlight,High,In Progress,Crew A
+SR-1090,2025-01-24,"116 5th Ave, Staten Island",Tree Inspection Request,Low,In Progress,Crew D
+SR-1091,2025-01-25,"889 5th Ave, Manhattan",Root Uplifting Sidewalk,Medium,Completed,Crew E
+SR-1092,2025-01-19,"670 Cedar Rd, Brooklyn",Tree Blocking Traffic Signals,Low,Completed,Crew A
+SR-1093,2025-01-24,"595 Birch St, Queens",Tree Fallen on Car,High,Open,Unassigned
+SR-1094,2025-01-02,"280 Maple Ave, Brooklyn",Tree Needs Pruning,Low,Open,Unassigned
+SR-1095,2025-01-01,"287 Pine St, Manhattan",Tree Branch Hanging Low,High,In Progress,Crew C
+SR-1096,2025-01-11,"718 Main St, Manhattan",Root Uplifting Sidewalk,Low,In Progress,Crew D
+SR-1097,2025-01-08,"214 Birch St, Manhattan",Tree Blocking Traffic Signals,High,Open,Unassigned
+SR-1098,2025-01-26,"369 Pine St, Queens",Tree Blocking Traffic Signals,High,Open,Unassigned
+SR-1099,2025-01-24,"418 Oak Rd, Brooklyn",Tree Needs Pruning,Medium,Open,Unassigned
